@@ -1,18 +1,28 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Contact Manager App
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+A Salesforce app built using Lightning Web Components (LWC) and Apex to manage contact information efficiently within the Salesforce platform.
 
-## How Do You Plan to Deploy Your Changes?
+## 🔧 Features
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+- Add, view, update, and delete contact records
+- Dynamic Lightning Web Components
+- Apex controller for database operations
+- Real-time UI updates with Lightning Data Service
+- Clean and responsive design
 
-## Configure Your Salesforce DX Project
+## 🛠️ Technologies Used
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+- Salesforce Platform
+- Lightning Web Components (LWC)
+- Apex
+- SOQL
+- Git & GitHub
 
-## Read All About It
+## 🚀 How to Use
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+1. Clone the repo or deploy the code into your Salesforce Org
+2. Open the Contact Manager App from the App Launcher
+3. Use the interface to create, edit, or delete contacts
+
+## 📁 Project Structure
+
